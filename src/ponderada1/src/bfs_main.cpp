@@ -79,6 +79,8 @@ int main(int argc, char **argv){
     //timer para saber quanto tempo o robô vai gastar pra achar o fim do lbirinto
     auto inicio_timer = std::chrono::high_resolution_clock::now();
     // Vou usar o BFS porque foi o que está no autoestudo com um exemplo do labirinto e porque achei mais fácil de implementar.
+   
+   
     RCLCPP_INFO(node->get_logger(), "Iniciando busca BFS.");
 
     // Fila para guardar os pontos que o robo visitar

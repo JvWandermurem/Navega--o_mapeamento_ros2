@@ -12,7 +12,7 @@ O objetivo deste projeto é aplicar algoritmos de busca em grafos para resolver 
 ## 🎥 Demonstração e Explicação
 Confira o vídeo de demonstração e explicação dos algoritmos abaixo:
 
-[CLIQUE AQUI PARA ASSISTIR AO VÍDEO NO YOUTUBE]()
+[CLIQUE AQUI PARA ASSISTIR AO VÍDEO NO YOUTUBE](https://youtu.be/QCuefA1eEqk)
 
 ### 📂 Estrutura do Projeto
 
